@@ -7,7 +7,8 @@
 
 「 Installation Instructions 」 ↓ 🔑
 
-[MEGA](https://mega.nz/file/OBJARTBC#SBYQj4iGq_8RiU295FbVEuhhm_5hVwbn3Don4hgZLy8) Last update = 10.06.2022 18:02
+[MEGA](https://mega.nz/file/OBJARTBC#SBYQj4iGq_8RiU295FbVEuhhm_5hVwbn3Don4hgZLy8) 
+Last update = 10.06.2022 18:02
 * Download Files.rar from MEGA and unzip to the root folder with the game (Minecraft)
 
 
