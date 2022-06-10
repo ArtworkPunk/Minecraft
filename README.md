@@ -1,11 +1,17 @@
 ![Excalibur](https://user-images.githubusercontent.com/67797794/173035054-b2e8270f-d974-4588-bcfe-760b26386e3c.png)
 
-# Minecraft - Excalibur 🌠
-[ Pack of mods for minecraft to play with friends! ] 🤝
+# Minecraft - Excalibur 🌠 (Ver 1.16.5 OptiForge)
+「 Pack of mods for minecraft to play with friends! 」 🤝
 
-I didn't create these mods, I took them from open access 🌍
+ * I didn't create these mods, I took them from open access 🌍
 
-[ Mod List ] ↓
+「 Installation Instructions 」 ↓ 🔑
+
+[MEGA](https://mega.nz/file/iVQGWZrJ#xJT5jmpnu1mWuGxGvyZRAsVp2P-u1N2xDWafNmUaawg)
+* Download Files.rar from MEGA and unzip to the root folder with the game (Minecraft)
+
+
+「 Mod List 」 ↓ 🧱
 ```
 nofog-1.2.0_1.16.5-forge
 cameraoverhaul-froge-1.0-1.16.4
