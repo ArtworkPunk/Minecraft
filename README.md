@@ -66,12 +66,23 @@ WorldMap-v1.20.6-for-Forge-1.16.5-1.16.2
 croptopia-1.16.4-forge-1.4.2
 transliterationlib-1.0.4
 notenoughanimations-1.2.4
-corail-backpack-1.16.5-122
-multimine-1.16.5
-byg-1.16.5-1.3.5
-Far_From_Home-Premium-1.16.5-7.5
-OpenTerrainGenerator-1.16.5-0.1.10
-Dregora-1.76
-BiomesOPlenty-1.16.5-13.1.0.487-universal
-ai-improvements-1.16.5-0.5.0
+
+「 Texture List 」 ↓ 🧱
 ```
+andromeda-sky-pack-3-by-obscuria
+better_dogs_v1.16.2
+excalibur_v1.16
+freshanimations_v1.6_alt
+```
+
+「 Shader List 」 ↓ 🧱
+```
+sildursvibrantshadersv1.32high
+sildursvibrantshadersv1.32lite
+sildursvibrantshadersv1.32medium
+Sildurs Enhanced Default v1.11
+sildursvibrantshadersv1.32extreme
+sildursvibrantshadersv1.32extreme-vl
+```
+
+
