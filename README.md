@@ -66,8 +66,9 @@ WorldMap-v1.20.6-for-Forge-1.16.5-1.16.2
 croptopia-1.16.4-forge-1.4.2
 transliterationlib-1.0.4
 notenoughanimations-1.2.4
+```
 
-「 Texture List 」 ↓ 🧱
+「 Texture List 」 ↓ 🎨
 ```
 andromeda-sky-pack-3-by-obscuria
 better_dogs_v1.16.2
@@ -75,7 +76,7 @@ excalibur_v1.16
 freshanimations_v1.6_alt
 ```
 
-「 Shader List 」 ↓ 🧱
+「 Shader List 」 ↓ 🌹
 ```
 sildursvibrantshadersv1.32high
 sildursvibrantshadersv1.32lite
@@ -84,5 +85,3 @@ Sildurs Enhanced Default v1.11
 sildursvibrantshadersv1.32extreme
 sildursvibrantshadersv1.32extreme-vl
 ```
-
-
